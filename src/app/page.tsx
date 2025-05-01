@@ -10,7 +10,7 @@ export default function HomePage() {
   const [showMoreProducts, setShowMoreProducts] = useState(false);
 
   const mainProducts = [
-    { name: 'Đèn thông minh', img: '/placeholder-light.jpg', desc: 'Điều khiển ánh sáng từ xa, thay đổi màu sắc và độ sáng bằng giọng nói hoặc ứng dụng.' },
+    { name: 'Đèn thông minh', img: '/placeholder-light.jpg', desc: 'Điều khiển ánh sáng otừ xa, thay đổi màu sắc và độ sáng bằng giọng nói hoặc ứng dụng.' },
     { name: 'Ổ cắm Wi-Fi', img: '/placeholder-plug.jpg', desc: 'Bật tắt thiết bị điện từ xa, hẹn giờ thông minh và theo dõi lượng điện tiêu thụ.' },
     { name: 'Cảm biến chuyển động', img: '/placeholder-sensor.jpg', desc: 'Phát hiện chuyển động để tự động bật đèn, cảnh báo khi có người lạ hoặc tích hợp hệ thống an ninh.' }
   ];
